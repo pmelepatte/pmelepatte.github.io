@@ -23,7 +23,7 @@ repository               : "pmelepatte.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : ![](../images/headshot.png)
   name             : "Praveena Melepatte"
   pronouns         : "she/her"  
   bio              : "Master's student in Physics at the University of Hamburg, working on Machine Learning in Cosmology"
